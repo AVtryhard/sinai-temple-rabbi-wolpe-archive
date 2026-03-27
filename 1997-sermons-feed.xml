@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rabbi Wolpe Sermons 1997</title>
+    <link>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive</link>
+    <description>Archival sermons from 1997.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Mar 2026 19:41:05 GMT</lastBuildDate>
+    <author>Rabbi David Wolpe</author>
+    <image>
+      <url>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive/podcast-cover.png</url>
+      <title>Rabbi Wolpe Sermons 1997</title>
+      <link>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive</link>
+    </image>
+    <atom:link href="https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive/1997-sermons-feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:title>Rabbi Wolpe Sermons 1997</itunes:title>
+    <itunes:author>Rabbi David Wolpe</itunes:author>
+    <itunes:summary>Archival sermons from 1997.</itunes:summary>
+    <itunes:subtitle>Archival sermons from 1997.</itunes:subtitle>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Rabbi David Wolpe</itunes:name>
+      <itunes:email>sinaitemplepresents@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive/podcast-cover.png" />
+    <itunes:category text="Religion &amp; Spirituality" />
+    <item>
+      <title>Ki Teitzei</title>
+      <description>Ki Teitzei. Parasha / occasion: Ki Teitzei.</description>
+      <pubDate>Sat, 13 Sep 1997 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rabbi-wolpe-sermon:1997:1997-09-13:1997_09_13_encoded.m4a</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DMkUtv88mrY7eGcvvItbEP9n9jRI4Syp" length="14359957" type="audio/mp4" />
+      <itunes:title>Ki Teitzei</itunes:title>
+      <itunes:author>Rabbi David Wolpe</itunes:author>
+      <itunes:summary>Ki Teitzei. Parasha / occasion: Ki Teitzei.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Nitzavim-Vayelech</title>
+      <description>Nitzavim-Vayelech. Parasha / occasion: Nitzavim-Vayelech.</description>
+      <pubDate>Sat, 27 Sep 1997 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rabbi-wolpe-sermon:1997:1997-09-27:1997_09_27_encoded.m4a</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-ULCx4NrI95i8-G9DdshK_8vTmVz27tB" length="19946222" type="audio/mp4" />
+      <itunes:title>Nitzavim-Vayelech</itunes:title>
+      <itunes:author>Rabbi David Wolpe</itunes:author>
+      <itunes:summary>Nitzavim-Vayelech. Parasha / occasion: Nitzavim-Vayelech.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Vayera</title>
+      <description>Vayera. Parasha / occasion: Vayera.</description>
+      <pubDate>Sat, 15 Nov 1997 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rabbi-wolpe-sermon:1997:1997-11-15:1997_11_15_encoded.m4a</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1D2kgqYraMsVkeVcGXThjfYelyhPCb2if" length="14306690" type="audio/mp4" />
+      <itunes:title>Vayera</itunes:title>
+      <itunes:author>Rabbi David Wolpe</itunes:author>
+      <itunes:summary>Vayera. Parasha / occasion: Vayera.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
