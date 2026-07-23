@@ -5,7 +5,7 @@
     <link>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive</link>
     <description>Archival sermons from 2006.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 23:30:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 19:24:53 GMT</lastBuildDate>
     <author>Rabbi David Wolpe</author>
     <image>
       <url>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive/podcast-cover-20260529.png</url>
@@ -238,6 +238,18 @@
       <itunes:title>Pinhas: One Hundred Years after Alfred Dreyfus</itunes:title>
       <itunes:author>Rabbi David Wolpe</itunes:author>
       <itunes:summary>Pinhas: One Hundred Years after Alfred Dreyfus. Parasha / occasion: Pinhas.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Mattot: Masey - ISRAEL AT WAR: WHAT IS OUR RESPONSE?</title>
+      <description>Mattot: Masey - ISRAEL AT WAR: WHAT IS OUR RESPONSE?. Parasha / occasion: Mattot.</description>
+      <pubDate>Sat, 22 Jul 2006 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rabbi-wolpe-sermon:2006:2006-07-22:2006_07_22_encoded.mp3</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13OOMLyAbMTynTdVv8UZ_vidbKQj2Oc5d" length="18952611" type="audio/mpeg" />
+      <itunes:title>Mattot: Masey - ISRAEL AT WAR: WHAT IS OUR RESPONSE?</itunes:title>
+      <itunes:author>Rabbi David Wolpe</itunes:author>
+      <itunes:summary>Mattot: Masey - ISRAEL AT WAR: WHAT IS OUR RESPONSE?. Parasha / occasion: Mattot.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -495,3 +507,4 @@
     </item>
   </channel>
 </rss>
+
