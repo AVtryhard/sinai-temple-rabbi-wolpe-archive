@@ -1,0 +1,29 @@
+Generated: 2026-05-29 18:20:59
+Site base URL: https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive
+New artwork URL: https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive/podcast-cover-20260529.png
+
+Upload these files into your GitHub repo's docs folder:
+- 1993-sermons-feed.xml
+- 1997-sermons-feed.xml
+- 1998-sermons-feed.xml
+- 1999-sermons-feed.xml
+- 2000-sermons-feed.xml
+- 2001-sermons-feed.xml
+- 2002-sermons-feed.xml
+- 2003-sermons-feed.xml
+- 2004-sermons-feed.xml
+- 2005-sermons-feed.xml
+- 2006-sermons-feed.xml
+- 2007-sermons-feed.xml
+- 2008-sermons-feed.xml
+- 2009-sermons-feed.xml
+- 2010-sermons-feed.xml
+- 2011-sermons-feed.xml
+- 2012-sermons-feed.xml
+- max-webb-rabbi-emeritus-rabbi-david-wolpe-archive.xml
+- podcast-cover-20260529.png
+
+Why this should refresh Spotify:
+- The image file name changed.
+- Every feed XML now points to the new image URL.
+- Every feed XML now has a new lastBuildDate.

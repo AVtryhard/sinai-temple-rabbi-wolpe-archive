@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rabbi Wolpe Sermons 2016</title>
+    <link>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive</link>
+    <description>Archival sermons from 2016.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jul 2026 23:30:49 GMT</lastBuildDate>
+    <author>Rabbi David Wolpe</author>
+    <image>
+      <url>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive/podcast-cover-20260529.png</url>
+      <title>Rabbi Wolpe Sermons 2016</title>
+      <link>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive</link>
+    </image>
+    <atom:link href="https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive/2016-sermons-feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:title>Rabbi Wolpe Sermons 2016</itunes:title>
+    <itunes:author>Rabbi David Wolpe</itunes:author>
+    <itunes:summary>Archival sermons from 2016.</itunes:summary>
+    <itunes:subtitle>Archival sermons from 2016.</itunes:subtitle>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Rabbi David Wolpe</itunes:name>
+      <itunes:email>sinaitemplepresents@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive/podcast-cover-20260529.png" />
+    <itunes:category text="Religion &amp; Spirituality" />
+    <item>
+      <title>Pinchas: Three Rabbis on Zealotry</title>
+      <description>Pinchas: Three Rabbis on Zealotry. Archive notes: Multi-rabbi sermon with Rabbi David Wolpe, Rabbi Jason Fruithandler, and Rabbi Erez Sherman. Parasha / occasion: Pinchas.</description>
+      <pubDate>Sat, 30 Jul 2016 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rabbi-wolpe-sermon:2016:2016-07-30:2016_07_30_encoded.mp3</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11rxQ5FoArD2wC_xLlDrKFk3y3psXlq52" length="9888498" type="audio/mpeg" />
+      <itunes:title>Pinchas: Three Rabbis on Zealotry</itunes:title>
+      <itunes:author>Rabbi David Wolpe</itunes:author>
+      <itunes:summary>Pinchas: Three Rabbis on Zealotry. Archive notes: Multi-rabbi sermon with Rabbi David Wolpe, Rabbi Jason Fruithandler, and Rabbi Erez Sherman. Parasha / occasion: Pinchas.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  </channel>
+</rss>
