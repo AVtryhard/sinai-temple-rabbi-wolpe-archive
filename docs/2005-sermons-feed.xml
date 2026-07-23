@@ -5,7 +5,7 @@
     <link>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive</link>
     <description>Archival sermons from 2005.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2026 01:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 19:24:53 GMT</lastBuildDate>
     <author>Rabbi David Wolpe</author>
     <image>
       <url>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive/podcast-cover-20260529.png</url>
@@ -166,6 +166,18 @@
       <itunes:title>Aharei Mot</itunes:title>
       <itunes:author>Rabbi David Wolpe</itunes:author>
       <itunes:summary>Aharei Mot. Parasha / occasion: Aharei Mot.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>PASSOVER 1ST DAY: ISRAEL NEEDS OUR VOICE</title>
+      <description>PASSOVER 1ST DAY: ISRAEL NEEDS OUR VOICE. Parasha / occasion: PASSOVER 1ST DAY.</description>
+      <pubDate>Sun, 24 Apr 2005 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rabbi-wolpe-sermon:2005:2005-04-24:2005_04_24_encoded.wma</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1A7B9LcnvTSfjvLvqx4VJ6mFQ3FkRu3Dk" length="6420822" type="application/octet-stream" />
+      <itunes:title>PASSOVER 1ST DAY: ISRAEL NEEDS OUR VOICE</itunes:title>
+      <itunes:author>Rabbi David Wolpe</itunes:author>
+      <itunes:summary>PASSOVER 1ST DAY: ISRAEL NEEDS OUR VOICE. Parasha / occasion: PASSOVER 1ST DAY.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -526,6 +538,18 @@
       <itunes:title>Toldot</itunes:title>
       <itunes:author>Rabbi David Wolpe</itunes:author>
       <itunes:summary>Toldot. Parasha / occasion: Toldot.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Vayetz: WHY YOU SHOULD BE DISSATISFIED</title>
+      <description>Vayetz: WHY YOU SHOULD BE DISSATISFIED. Parasha / occasion: Vayetz.</description>
+      <pubDate>Sat, 10 Dec 2005 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rabbi-wolpe-sermon:2005:2005-12-10:2005_12_10_encoded.mp3</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=196uyWkfNpxywVT4EAMA-PyvxMBHmpYTo" length="9163504" type="audio/mpeg" />
+      <itunes:title>Vayetz: WHY YOU SHOULD BE DISSATISFIED</itunes:title>
+      <itunes:author>Rabbi David Wolpe</itunes:author>
+      <itunes:summary>Vayetz: WHY YOU SHOULD BE DISSATISFIED. Parasha / occasion: Vayetz.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
