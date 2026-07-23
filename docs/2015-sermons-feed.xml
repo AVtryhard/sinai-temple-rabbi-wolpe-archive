@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rabbi Wolpe Sermons 2015</title>
+    <link>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive</link>
+    <description>Archival sermons from 2015.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2026 19:24:53 GMT</lastBuildDate>
+    <author>Rabbi David Wolpe</author>
+    <image>
+      <url>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive/podcast-cover-20260529.png</url>
+      <title>Rabbi Wolpe Sermons 2015</title>
+      <link>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive</link>
+    </image>
+    <atom:link href="https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive/2015-sermons-feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:title>Rabbi Wolpe Sermons 2015</itunes:title>
+    <itunes:author>Rabbi David Wolpe</itunes:author>
+    <itunes:summary>Archival sermons from 2015.</itunes:summary>
+    <itunes:subtitle>Archival sermons from 2015.</itunes:subtitle>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Rabbi David Wolpe</itunes:name>
+      <itunes:email>sinaitemplepresents@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive/podcast-cover-20260529.png" />
+    <itunes:category text="Religion &amp; Spirituality" />
+    <item>
+      <title>First Day of Sukkot: A Holiday Human and Divine</title>
+      <description>First Day of Sukkot: A Holiday Human and Divine. Parasha / occasion: First Day of Sukkot.</description>
+      <pubDate>Mon, 28 Sep 2015 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rabbi-wolpe-sermon:2015:2015-09-28:2015_09_28_encoded.mp3</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11X8ki7W5Mx4l05P9l19QT9CXUPU3rihb" length="2923292" type="audio/mpeg" />
+      <itunes:title>First Day of Sukkot: A Holiday Human and Divine</itunes:title>
+      <itunes:author>Rabbi David Wolpe</itunes:author>
+      <itunes:summary>First Day of Sukkot: A Holiday Human and Divine. Parasha / occasion: First Day of Sukkot.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Koufax and the American Jewish Dream</title>
+      <description>Koufax and the American Jewish Dream. Archive type: Sermon.</description>
+      <pubDate>Sat, 03 Oct 2015 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rabbi-wolpe-sermon:2015:2015-10-03:2015_10_03_encoded.mp3</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zezwZFde-wXzEnm8z1pILajlQSZDg6BY" length="7212182" type="audio/mpeg" />
+      <itunes:title>Koufax and the American Jewish Dream</itunes:title>
+      <itunes:author>Rabbi David Wolpe</itunes:author>
+      <itunes:summary>Koufax and the American Jewish Dream. Archive type: Sermon.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Shmini Atzeret: Rabbi Judah&apos;s Last Wishes</title>
+      <description>Shmini Atzeret: Rabbi Judah&apos;s Last Wishes. Parasha / occasion: Shmini Atzeret.</description>
+      <pubDate>Mon, 05 Oct 2015 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rabbi-wolpe-sermon:2015:2015-10-05:2015_10_05_encoded.mp3</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1q-ldEectZhXKnuW2gDjubZJnp9WVqvJG" length="5693489" type="audio/mpeg" />
+      <itunes:title>Shmini Atzeret: Rabbi Judah&apos;s Last Wishes</itunes:title>
+      <itunes:author>Rabbi David Wolpe</itunes:author>
+      <itunes:summary>Shmini Atzeret: Rabbi Judah&apos;s Last Wishes. Parasha / occasion: Shmini Atzeret.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Bereshit: Renewal</title>
+      <description>Bereshit: Renewal. Parasha / occasion: Bereshit.</description>
+      <pubDate>Sat, 10 Oct 2015 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rabbi-wolpe-sermon:2015:2015-10-10:2015_10_10_encoded.mp3</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12v7tB2gLHJqWWmQGbENKLzF4w0-oOHcN" length="2971738" type="audio/mpeg" />
+      <itunes:title>Bereshit: Renewal</itunes:title>
+      <itunes:author>Rabbi David Wolpe</itunes:author>
+      <itunes:summary>Bereshit: Renewal. Parasha / occasion: Bereshit.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  </channel>
+</rss>
