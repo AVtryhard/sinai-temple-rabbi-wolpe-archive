@@ -5,7 +5,7 @@
     <link>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive</link>
     <description>Archival sermons from 2008.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 23:30:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 19:24:53 GMT</lastBuildDate>
     <author>Rabbi David Wolpe</author>
     <image>
       <url>https://avtryhard.github.io/sinai-temple-rabbi-wolpe-archive/podcast-cover-20260529.png</url>
@@ -362,6 +362,18 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>Va: ethannan - Two Kinds of Comfort</title>
+      <description>Va: ethannan - Two Kinds of Comfort. Parasha / occasion: Va.</description>
+      <pubDate>Sat, 16 Aug 2008 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rabbi-wolpe-sermon:2008:2008-08-16:2008_08_16_encoded.mp3</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1imdtNZUIwQiopFg8_dvydy6PB2xb2p0p" length="7793728" type="audio/mpeg" />
+      <itunes:title>Va: ethannan - Two Kinds of Comfort</itunes:title>
+      <itunes:author>Rabbi David Wolpe</itunes:author>
+      <itunes:summary>Va: ethannan - Two Kinds of Comfort. Parasha / occasion: Va.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Eikev: Three Questions to Test The State of Your Soul</title>
       <description>Eikev: Three Questions to Test The State of Your Soul. Parasha / occasion: Eikev.</description>
       <pubDate>Sat, 23 Aug 2008 07:00:00 GMT</pubDate>
@@ -506,6 +518,18 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>Sermon from October 25, 2008</title>
+      <description>Sermon from October 25, 2008. Archive type: Sermon.</description>
+      <pubDate>Sat, 25 Oct 2008 07:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rabbi-wolpe-sermon:2008:2008-10-25:2008_10_25_encoded.mp3</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1k5l73OQs7shORTJV6dJgzLGWkpF31LRC" length="5672376" type="audio/mpeg" />
+      <itunes:title>Sermon from October 25, 2008</itunes:title>
+      <itunes:author>Rabbi David Wolpe</itunes:author>
+      <itunes:summary>Sermon from October 25, 2008. Archive type: Sermon.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Noah: Arguing About God</title>
       <description>Noah: Arguing About God. Parasha / occasion: Noah.</description>
       <pubDate>Sat, 01 Nov 2008 07:00:00 GMT</pubDate>
@@ -603,3 +627,4 @@
     </item>
   </channel>
 </rss>
+
